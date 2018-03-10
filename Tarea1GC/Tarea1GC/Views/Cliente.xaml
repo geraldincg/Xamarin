@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="Tarea1GC.Views.Cliente">
+    <ContentPage.Content>
+        <StackLayout Spacing="18" Padding="15">
+            <Label Text="" FontSize="20"></Label>
+            <ListView x:Name="listClientes" SeparatorColor="Red">  
+                <ListView.Header>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Nombres que Inicia con la Letra M"
+                        TextColor="Red"/>
+                    </StackLayout>
+                </ListView.Header>
+            <ListView.ItemTemplate>  
+                <DataTemplate>  
+                    <TextCell Text="{Binding nombre}" Detail="{Binding telefono}"></TextCell>  
+                </DataTemplate>  
+            </ListView.ItemTemplate>  
+            </ListView>
+            <ListView x:Name="listClientesEdad" SeparatorColor="Green"> 
+                <ListView.Header>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Clientes con Edad de 25"
+                        TextColor="Green"/>
+                    </StackLayout>
+                </ListView.Header>
+            <ListView.ItemTemplate>  
+                <DataTemplate>  
+                    <TextCell Text="{Binding nombre}" Detail="{Binding edad}"></TextCell>  
+                </DataTemplate>  
+            </ListView.ItemTemplate>  
+         </ListView>
+            <ListView x:Name="listClientesTelf" SeparatorColor="Blue"> 
+                <ListView.Header>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Clientes donde Telefono Inicie con 86"
+                        TextColor="Blue"/>
+                    </StackLayout>
+                </ListView.Header>
+            <ListView.ItemTemplate>  
+                <DataTemplate>  
+                    <TextCell Text="{Binding nombre}" Detail="{Binding telefono}"></TextCell>  
+                </DataTemplate>  
+            </ListView.ItemTemplate>  
+         </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+       
+</ContentPage>

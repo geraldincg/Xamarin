@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{13499065-1445-4E3C-BAFF-769A030E119A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Tarea1GC/Views/Cliente.xaml" Line="34" Column="38" />
+      <File FileName="Tarea1GC/Views/Cliente.xaml.cs" Line="44" Column="13" />
+      <File FileName="Tarea1GC/Views/App.xaml.cs" Line="13" Column="10" />
+      <File FileName="Tarea1GC/Tarea1GCPage.xaml" Line="10" Column="1" />
+      <File FileName="Tarea1GC/Tarea1GCPage.xaml.cs" Line="6" Column="6" />
+      <File FileName="Tarea1GC/packages.config" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="18" Column="10" />
+      <File FileName="Tarea1GC/obj/Debug/Tarea1GC.Views.Cliente.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="Tarea1GC/Views/App.xaml" Line="7" Column="1" />
+      <File FileName="Tarea1GC/ViewModels/MClientes.cs" Line="7" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tarea1GC.Droid PreferredExecutionTarget="Android.Android_ARMv7a_Nougat" />
+  <MonoDevelop.Ide.ItemProperties.Tarea1GC.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EFBA326A-12F0-4A81-82AF-2DEE98C49659" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Tarea1GC.iOS>
+</Properties>
