@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{B11B6437-7E4F-4355-8DD2-5578E4AFFF1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
+    <Files>
+      <File FileName="LaboratorioA/Models/PersonaModel.cs" Line="27" Column="9" />
+      <File FileName="LaboratorioA/Models/Ventas.cs" Line="15" Column="6" />
+      <File FileName="LaboratorioA/ViewModels/PersonaViewModel.cs" Line="58" Column="1" />
+      <File FileName="LaboratorioA/Views/PersonaView.xaml" Line="8" Column="53" />
+      <File FileName="LaboratorioA/Views/UsuarioDetalle.xaml" Line="63" Column="23" />
+      <File FileName="LaboratorioA/Views/UsuarioDetalle.xaml.cs" Line="16" Column="1" />
+      <File FileName="LaboratorioA/Views/PersonaView.xaml.cs" Line="19" Column="1" />
+      <File FileName="LaboratorioA/App.xaml" Line="15" Column="12" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LaboratorioA" expanded="True">
+            <Node name="LaboratorioA" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="PersonaView.xaml" expanded="True" />
+                <Node name="UsuarioDetalle.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="LaboratorioA.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="LaboratorioA.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LaboratorioA.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.63a62a95e20e237f3787ec7cb4f8775a67fdfdeb">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.LaboratorioA.iOS>
+</Properties>
